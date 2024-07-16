@@ -72,8 +72,8 @@ Button usage:
 |	<span style="color: red"> Red (blinking slow) </span> | Awaiting to be setup |
 |	<span style="color: yellow; background: black;"> Yellow</span> | Waiting for wireless to connect / Link down on ethernet |
 |	<span style="color: green"> Green </span> |	Network connected, waiting for DHCP to get IP address (skipped when using static IP) |
-|	<span style="color: blue"> Blue </span> |	Waiting to connect to Squeezebox Server or MySqueezebox.com |
-|	White |	Connected to Squeezebox Server or MySqueezebox.com |
+|	<span style="color: blue"> Blue </span> |	Waiting to connect to Squeezebox Server |
+|	White |	Connected to Squeezebox Server |
 |	White (blinking fast) |	Firmware update in progress |
 |	<span style="color: red"> Red (blinking fast) </span> |	Factory Reset and xilinx update in progress |
 |	<span style="color: purple"> Purple </span> |	Hard error with blink codes, a number of blinks with a one second pause in between (Note: The white light might have a purplish tint. If it's not blinking, everything is normal.) |
